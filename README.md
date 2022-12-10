@@ -9,5 +9,5 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 
-<br>
+
 [Boilerplate](https://github.com/electron-vite/electron-vite-react)
