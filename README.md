@@ -10,5 +10,5 @@
 
 
 
-
-![boilerplate](https://github.com/electron-vite/electron-vite-react)
+<br>
+[Boilerplate](https://github.com/electron-vite/electron-vite-react)
